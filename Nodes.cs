@@ -55,12 +55,20 @@ namespace SinglyLinkedLists
 
         }
 
-        public void Insert(int value, int num)// will insert the value after the specified index.
+        public void Insert(int value, int num)// will insert the value after the specified index. (works zero based)
         {
             int count = 0;
             if(num < 1)
             {
-                Console.WriteLine($"The referenced index must be 1 or greater.");
+                if(num == 0)
+                {
+                    AddToFront(value);
+                }
+                else
+                {
+                    Console.WriteLine($"The referenced index must be 0 or greater.");
+                }
+                return;
             }
             Node newNode = new Node(value);
             Node current = Head;
@@ -80,11 +88,15 @@ namespace SinglyLinkedLists
             }
         }
 
-        public void Remove(int num)
+        public void Remove(int num)// I should review this and make it work as zero based and make sure there are no redundancies
         {
             int count = 0;
             Node current = Head;
             Node previous;
+            if(num < 1)
+            {
+                Console.WriteLine($"The referenced index must be 1 or greater.");
+            }
             if(num == 1)
             {
                 Head = current.Next;
