@@ -1,0 +1,11 @@
+C:\Users\gohas\Desktop\DojoAssignments\NetCore\c_sharp_net_fund\SinglyLinkedLists\bin\Debug\netcoreapp2.0\SinglyLinkedLists.deps.json
+C:\Users\gohas\Desktop\DojoAssignments\NetCore\c_sharp_net_fund\SinglyLinkedLists\bin\Debug\netcoreapp2.0\SinglyLinkedLists.runtimeconfig.json
+C:\Users\gohas\Desktop\DojoAssignments\NetCore\c_sharp_net_fund\SinglyLinkedLists\bin\Debug\netcoreapp2.0\SinglyLinkedLists.runtimeconfig.dev.json
+C:\Users\gohas\Desktop\DojoAssignments\NetCore\c_sharp_net_fund\SinglyLinkedLists\bin\Debug\netcoreapp2.0\SinglyLinkedLists.dll
+C:\Users\gohas\Desktop\DojoAssignments\NetCore\c_sharp_net_fund\SinglyLinkedLists\bin\Debug\netcoreapp2.0\SinglyLinkedLists.pdb
+C:\Users\gohas\Desktop\DojoAssignments\NetCore\c_sharp_net_fund\SinglyLinkedLists\obj\Debug\netcoreapp2.0\SinglyLinkedLists.csprojResolveAssemblyReference.cache
+C:\Users\gohas\Desktop\DojoAssignments\NetCore\c_sharp_net_fund\SinglyLinkedLists\obj\Debug\netcoreapp2.0\SinglyLinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\gohas\Desktop\DojoAssignments\NetCore\c_sharp_net_fund\SinglyLinkedLists\obj\Debug\netcoreapp2.0\SinglyLinkedLists.AssemblyInfoInputs.cache
+C:\Users\gohas\Desktop\DojoAssignments\NetCore\c_sharp_net_fund\SinglyLinkedLists\obj\Debug\netcoreapp2.0\SinglyLinkedLists.AssemblyInfo.cs
+C:\Users\gohas\Desktop\DojoAssignments\NetCore\c_sharp_net_fund\SinglyLinkedLists\obj\Debug\netcoreapp2.0\SinglyLinkedLists.dll
+C:\Users\gohas\Desktop\DojoAssignments\NetCore\c_sharp_net_fund\SinglyLinkedLists\obj\Debug\netcoreapp2.0\SinglyLinkedLists.pdb
